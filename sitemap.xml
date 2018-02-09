@@ -45,13 +45,6 @@
   </url>
   
   <url>
-    <loc>https://i9r.github.io/post/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://i9r.github.io/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -65,15 +58,7 @@
   </url>
   
   <url>
-    <loc>https://i9r.github.io/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://i9r.github.io/tags/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
