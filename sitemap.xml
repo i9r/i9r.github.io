@@ -52,6 +52,13 @@
   </url>
   
   <url>
+    <loc>https://i9r.github.io/post/2014-01-23/</loc>
+    <lastmod>2014-10-23T18:07:31+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://i9r.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
